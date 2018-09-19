@@ -43,7 +43,7 @@ STM32 Nucleo users have free access to the mbed online compiler, the mbed online
  </views>
  <connectors>
   <connector id="connector1000" type="female" name="VIN">
-   <description>A0</description>
+   <description>VIN</description>
    <views>
     <breadboardView>
      <p svgId="connector1000pin" layer="breadboardbreadboard"/>
@@ -58,7 +58,7 @@ STM32 Nucleo users have free access to the mbed online compiler, the mbed online
    </views>
   </connector>
   <connector id="connector1001" type="female" name="GND">
-   <description>A1</description>
+   <description>GND</description>
    <views>
     <breadboardView>
      <p svgId="connector1001pin" layer="breadboardbreadboard"/>
@@ -73,7 +73,7 @@ STM32 Nucleo users have free access to the mbed online compiler, the mbed online
    </views>
   </connector>
   <connector id="connector1002" type="female" name="RST">
-   <description>A2</description>
+   <description>RST</description>
    <views>
     <breadboardView>
      <p svgId="connector1002pin" layer="breadboardbreadboard"/>
@@ -88,7 +88,7 @@ STM32 Nucleo users have free access to the mbed online compiler, the mbed online
    </views>
   </connector>
   <connector id="connector1003" type="female" name="5V">
-   <description>A3</description>
+   <description>5V</description>
    <views>
     <breadboardView>
      <p svgId="connector1003pin" layer="breadboardbreadboard"/>
@@ -103,7 +103,7 @@ STM32 Nucleo users have free access to the mbed online compiler, the mbed online
    </views>
   </connector>
   <connector id="connector1004" type="female" name="A7">
-   <description>A4/SDA</description>
+   <description>A7</description>
    <views>
     <breadboardView>
      <p svgId="connector1004pin" layer="breadboardbreadboard"/>
@@ -118,7 +118,7 @@ STM32 Nucleo users have free access to the mbed online compiler, the mbed online
    </views>
   </connector>
   <connector id="connector1005" type="female" name="A6">
-   <description>A5/SCL</description>
+   <description>A6</description>
    <views>
     <breadboardView>
      <p svgId="connector1005pin" layer="breadboardbreadboard"/>
@@ -133,7 +133,7 @@ STM32 Nucleo users have free access to the mbed online compiler, the mbed online
    </views>
   </connector>
   <connector id="connector1006" type="female" name="A5">
-   <description>VDD from application</description>
+   <description>A5</description>
    <views>
     <breadboardView>
      <p svgId="connector1006pin" layer="breadboardbreadboard"/>
@@ -148,7 +148,7 @@ STM32 Nucleo users have free access to the mbed online compiler, the mbed online
    </views>
   </connector>
   <connector id="connector1007" type="female" name="A4">
-   <description>SWD data input/output</description>
+   <description>A4</description>
    <views>
     <breadboardView>
      <p svgId="connector1007pin" layer="breadboardbreadboard"/>
@@ -163,7 +163,7 @@ STM32 Nucleo users have free access to the mbed online compiler, the mbed online
    </views>
   </connector>
   <connector id="connector1008" type="female" name="A3">
-   <description>SWD clock</description>
+   <description>A3</description>
    <views>
     <breadboardView>
      <p svgId="connector1008pin" layer="breadboardbreadboard"/>
@@ -178,7 +178,7 @@ STM32 Nucleo users have free access to the mbed online compiler, the mbed online
    </views>
   </connector>
   <connector id="connector1009" type="female" name="A2">
-   <description>RESET of target MCU</description>
+   <description>A2</description>
    <views>
     <breadboardView>
      <p svgId="connector1009pin" layer="breadboardbreadboard"/>
@@ -193,7 +193,7 @@ STM32 Nucleo users have free access to the mbed online compiler, the mbed online
    </views>
   </connector>
   <connector id="connector1010" type="female" name="A1">
-   <description>Ground</description>
+   <description>A1</description>
    <views>
     <breadboardView>
      <p svgId="connector1010pin" layer="breadboardbreadboard"/>
@@ -208,7 +208,7 @@ STM32 Nucleo users have free access to the mbed online compiler, the mbed online
    </views>
   </connector>
   <connector id="connector1011" type="female" name="A0">
-   <description>Reserved</description>
+   <description>A0</description>
    <views>
     <breadboardView>
      <p svgId="connector1011pin" layer="breadboardbreadboard"/>
@@ -223,7 +223,7 @@ STM32 Nucleo users have free access to the mbed online compiler, the mbed online
    </views>
   </connector>
   <connector id="connector1012" type="female" name="REF">
-   <description>D8</description>
+   <description>REF</description>
    <views>
     <breadboardView>
      <p svgId="connector1012pin" layer="breadboardbreadboard"/>
@@ -238,7 +238,7 @@ STM32 Nucleo users have free access to the mbed online compiler, the mbed online
    </views>
   </connector>
   <connector id="connector1013" type="female" name="3V3">
-   <description>D9 PWM</description>
+   <description>3V3</description>
    <views>
     <breadboardView>
      <p svgId="connector1013pin" layer="breadboardbreadboard"/>
@@ -253,7 +253,7 @@ STM32 Nucleo users have free access to the mbed online compiler, the mbed online
    </views>
   </connector>
   <connector id="connector1014" type="female" name="D13">
-   <description>D10 PWM/SS</description>
+   <description>D13</description>
    <views>
     <breadboardView>
      <p svgId="connector1014pin" layer="breadboardbreadboard"/>
@@ -268,7 +268,7 @@ STM32 Nucleo users have free access to the mbed online compiler, the mbed online
    </views>
   </connector>
   <connector id="connector1100" type="female" name="D1/TX">
-   <description>D11 PWM/MOSI</description>
+   <description>D1/TX</description>
    <views>
     <breadboardView>
      <p svgId="connector1100pin" layer="breadboardbreadboard"/>
@@ -283,7 +283,7 @@ STM32 Nucleo users have free access to the mbed online compiler, the mbed online
    </views>
   </connector>
   <connector id="connector1101" type="female" name="D0/RX">
-   <description>D12/MISO</description>
+   <description>D0/RX</description>
    <views>
     <breadboardView>
      <p svgId="connector1101pin" layer="breadboardbreadboard"/>
@@ -298,7 +298,7 @@ STM32 Nucleo users have free access to the mbed online compiler, the mbed online
    </views>
   </connector>
   <connector id="connector1102" type="female" name="RST">
-   <description>D13/SCK</description>
+   <description>RST</description>
    <views>
     <breadboardView>
      <p svgId="connector1102pin" layer="breadboardbreadboard"/>
@@ -328,7 +328,7 @@ STM32 Nucleo users have free access to the mbed online compiler, the mbed online
    </views>
   </connector>
   <connector id="connector1104" type="female" name="D2">
-   <description>AREF</description>
+   <description>D2</description>
    <views>
     <breadboardView>
      <p svgId="connector1104pin" layer="breadboardbreadboard"/>
@@ -343,7 +343,7 @@ STM32 Nucleo users have free access to the mbed online compiler, the mbed online
    </views>
   </connector>
   <connector id="connector1105" type="female" name="D3">
-   <description>A4/SDA</description>
+   <description>D3</description>
    <views>
     <breadboardView>
      <p svgId="connector1105pin" layer="breadboardbreadboard"/>
@@ -358,7 +358,7 @@ STM32 Nucleo users have free access to the mbed online compiler, the mbed online
    </views>
   </connector>
   <connector id="connector1106" type="female" name="D4">
-   <description>A5/SCL</description>
+   <description>D4</description>
    <views>
     <breadboardView>
      <p svgId="connector1106pin" layer="breadboardbreadboard"/>
@@ -373,7 +373,7 @@ STM32 Nucleo users have free access to the mbed online compiler, the mbed online
    </views>
   </connector>
   <connector id="connector1107" type="female" name="D5">
-   <description>D0/RX</description>
+   <description>D5</description>
    <views>
     <breadboardView>
      <p svgId="connector1107pin" layer="breadboardbreadboard"/>
@@ -388,7 +388,7 @@ STM32 Nucleo users have free access to the mbed online compiler, the mbed online
    </views>
   </connector>
   <connector id="connector1108" type="female" name="D6">
-   <description>D1/TX</description>
+   <description>D6</description>
    <views>
     <breadboardView>
      <p svgId="connector1108pin" layer="breadboardbreadboard"/>
@@ -403,7 +403,7 @@ STM32 Nucleo users have free access to the mbed online compiler, the mbed online
    </views>
   </connector>
   <connector id="connector1109" type="female" name="D7">
-   <description>D2</description>
+   <description>D7</description>
    <views>
     <breadboardView>
      <p svgId="connector1109pin" layer="breadboardbreadboard"/>
@@ -418,7 +418,7 @@ STM32 Nucleo users have free access to the mbed online compiler, the mbed online
    </views>
   </connector>
   <connector id="connector1110" type="female" name="D8">
-   <description>D3 PWM</description>
+   <description>D8</description>
    <views>
     <breadboardView>
      <p svgId="connector1110pin" layer="breadboardbreadboard"/>
@@ -433,7 +433,7 @@ STM32 Nucleo users have free access to the mbed online compiler, the mbed online
    </views>
   </connector>
   <connector id="connector1111" type="female" name="D9">
-   <description>D4</description>
+   <description>D9</description>
    <views>
     <breadboardView>
      <p svgId="connector1111pin" layer="breadboardbreadboard"/>
@@ -448,7 +448,7 @@ STM32 Nucleo users have free access to the mbed online compiler, the mbed online
    </views>
   </connector>
   <connector id="connector1112" type="female" name="D10">
-   <description>D5 PWM</description>
+   <description>D10</description>
    <views>
     <breadboardView>
      <p svgId="connector1112pin" layer="breadboardbreadboard"/>
@@ -463,7 +463,7 @@ STM32 Nucleo users have free access to the mbed online compiler, the mbed online
    </views>
   </connector>
   <connector id="connector1113" type="female" name="D11">
-   <description>D6 PWM</description>
+   <description>D11</description>
    <views>
     <breadboardView>
      <p svgId="connector1113pin" layer="breadboardbreadboard"/>
@@ -478,7 +478,7 @@ STM32 Nucleo users have free access to the mbed online compiler, the mbed online
    </views>
   </connector>
   <connector id="connector1114" type="female" name="D12">
-   <description>D7</description>
+   <description>D12</description>
    <views>
     <breadboardView>
      <p svgId="connector1114pin" layer="breadboardbreadboard"/>
